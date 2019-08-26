@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h2{
+	text-decoration:underline #F2C2C2; 
+	margin-top: 120px; 
+	margin-left: 20px; 
+	font-size: 40px;  
+	color: #5D5858; 
+}
+
+
+h3{
+	text-align: center;
+	padding: 50px 0;
+	font-weight: 400;
+	margin-top: 50px;
+	letter-spacing: -1px;
+	color: #707070;
+	font-size: 40px;
+}
+
+h4{
+	text-align: left; 
+	font-weight: 700; 
+	color: #F5E4DC; 
+	font-size: 60px; 
+	
+}
+
+h5{
+	text-align: left; 
+	font-weight: 350; 
+	color: #5D5858; 
+	font-size: 30px; 
+	
+}
+
+hr.line1{
+	border: none; 
+	height: 7px;
+}
+
+p{
+	color: #5D5858; 
+}
